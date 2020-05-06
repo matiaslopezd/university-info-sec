@@ -1,4 +1,4 @@
-# **POLÍTICA DE CONTROL DE ACCESO**
+# **Política de control de acceso**
 
 ![Company Logo](https://raw.githubusercontent.com/vadymmarkov/Fakery/master/Images/logo.png)
 
@@ -148,7 +148,7 @@ Además se realizarán charlas mensuales y anuales con diferentes contextos basa
 | :-----: | :-----------------: | :------------------: | :-----------: |
 |   1.0   | 05 de Mayo del 2020 | Inicio del documento | @matiaslopezd |
 
-# 10. GLOSARIO Y TERMINOLOGÍA
+# Glosario y Terminología
 
 Para los propósitos de esta Política, se entenderá por:
 
